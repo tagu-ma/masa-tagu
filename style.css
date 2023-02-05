@@ -1,0 +1,31 @@
+.grid_container {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr 1fr;
+    gap: 15px;
+    width: 70%;
+    height: 90%;
+}
+.square1{
+    background-color: aquamarine;
+}
+.square2{
+    background-color: beige;
+}
+.square3{
+    background-color: blueviolet;
+}
+.square4{
+    background-color: brown;
+}
+.square5{
+    background-color: burlywood;
+}
+.square6{
+    background-color: cadetblue;
+}
+.square7{
+    background-color: chartreuse;
+}
+.square8{
+    background-color: chocolate;
+}
